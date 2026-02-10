@@ -1,13 +1,12 @@
-# Enhanced ASI Brain System V6.0
+# AI Cognitive Framework V6.0 - Advanced Learning & Behavior Modeling
 
-Advanced Persistent Learning & Human Behavior Cloning system with features 83-100, focusing on real-time learning, environment interaction, and deep reasoning.
+**AI Cognitive Framework V6.0** is an advanced persistent learning and human behavior modeling system. It focuses on real-time neural adaptation, environment interaction mapping, and deep multi-pass reasoning.
 
-## New Features in V6.0
+## Core Features
 
-- **Persistent Neural Model**: Real-time learning from external feedback with persistent memory and experience replay.
-- **Environment Interface**: Self-updating world interaction, entity recognition, and relationship mapping.
-- **Deep Reasoning Engine**: Multi-pass reasoning with intention understanding and common sense application.
-- **Human Behavior Cloning**: (Implied/referenced in docstring) Advanced modeling of human-like adaptive behavior.
+- **Persistent Neural Adaptation**: Real-time learning from feedback with integrated experience replay.
+- **Environment Interaction Layer**: Dynamic world mapping, entity recognition, and relationship modeling.
+- **Deep Reasoning Engine**: Multi-pass cognitive processing for intention understanding and contextual logic.
 
 ## Usage
 
